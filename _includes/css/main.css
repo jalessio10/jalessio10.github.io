@@ -309,7 +309,7 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #{{ site.color.secondary }};
+    border: solid 2px #{{ site.color.primary }};
     color: #{{ site.color.primary }};
     background: #{{ site.color.secondary }};
 }
