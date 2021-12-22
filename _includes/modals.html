@@ -18,6 +18,18 @@
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
+                            {% if post.objective %}
+                                <h1>Objective</h1>
+                                <p align="left">{{ post.objective }}</p>
+                            {% endif %}
+                            {% if post.details %}
+                                <h1>Details</h1>
+                                <p align="left">{{ post.details }}</p>
+                            {% endif %}
+                            {% if post.results %}
+                                <h1>Results</h1>
+                                <p align="left">{{ post.results }}</p>
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
