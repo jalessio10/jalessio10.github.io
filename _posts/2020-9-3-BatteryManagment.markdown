@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 3
-date: 2021-12-22
 img: BMS.jpg
 alt: image-alt
 project-date: Summer 2020

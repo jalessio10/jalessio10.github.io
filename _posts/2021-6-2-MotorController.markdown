@@ -1,10 +1,9 @@
 ---
 layout: default
 modal-id: 5
-date: 2021-12-22
 img: MoveControl.png
 alt: image-alt
-project-date: Spring 2021 
+project-date: Spring 2021
 category: PCB Design
 title: Motor Control Board
 objective: To create a board to control up to 3 different DC motors with encoder feedback for use in a my universities entry in the NASA Mars Ice Challenge.

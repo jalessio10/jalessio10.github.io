@@ -1,12 +1,11 @@
 ---
 layout: default
-modal-id: 9
-date: 2021-12-22
-img: UmbilicalInterface.jpg
+modal-id: 8
+img: L1Cert.jpg
 alt: image-alt
 project-date: Spring 2021 
 category: Rocketry
-title: Rocket Umbilical - Electrical Interface
+title: L1 Certification Rocket
 objective: filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler 
 details: filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler 
 results: filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler 

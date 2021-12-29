@@ -1,12 +1,11 @@
 ---
 layout: default
-modal-id: 7
-date: 2021-12-22
-img: SensorShield.png
+modal-id: 9
+img: UmbilicalInterface.jpg
 alt: image-alt
-project-date: Spring 2021 
-category: PCB Design
-title: Arduino Sensor Shield
+project-date: Summer 2020 
+category: Rocketry
+title: Rocket Umbilical - Electrical Interface
 objective: filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler 
 details: filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler 
 results: filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler filler 

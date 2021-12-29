@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 6
-date: 2021-12-22
 img: STMControl.jpg
 alt: image-alt
 project-date: Spring 2021 

@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 1
-date: 2021-12-22
 img: THOArduino.jpg
 alt: image-alt
 project-date: Summer 2020

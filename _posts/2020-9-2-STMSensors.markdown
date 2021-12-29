@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2021-12-22
 img: STMSensors.jpg
 alt: image-alt
 project-date: Summer 2020
-category: Firmware Drivers
+category: C/C++ Programming
 title: High-G Accelerometer and IMU Drivers
 objective: To develop functional SPI drivers for the H3LIS331DL High-G accelerometer and LSM9DS1 IMU.
 details: The drivers are written in C (because it is more lightweight than C++) and tested on the STM32 platform using the STMCubeIDE. The sensor configuration and data is stored in structs using a similar scheme for both chips.
