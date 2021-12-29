@@ -1,5 +1,6 @@
 ---
 layout: default
+modal-id: 1
 img: CoinCounter.png
 alt: image-alt
 project-date: Fall 2018
