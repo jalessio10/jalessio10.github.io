@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 5
 img: MoveControl.png
 alt: image-alt
 project-date: Spring 2021

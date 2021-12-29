@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 2
 img: STMSensors.jpg
 alt: image-alt
 project-date: Summer 2020

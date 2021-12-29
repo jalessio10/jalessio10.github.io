@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 9
 img: UmbilicalInterface.jpg
 alt: image-alt
 project-date: Summer 2020 

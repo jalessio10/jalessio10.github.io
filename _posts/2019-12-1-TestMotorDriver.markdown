@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 4
 img: TestMotorDriver.jpg
 alt: image-alt
 project-date: Fall 2019

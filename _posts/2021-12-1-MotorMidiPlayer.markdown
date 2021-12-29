@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 11
 img: Motor.png
 alt: image-alt
 project-date: Fall 2021

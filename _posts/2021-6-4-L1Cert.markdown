@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 8
 img: L1Cert.jpg
 alt: image-alt
 project-date: Spring 2021 

@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 3
 img: BMS.jpg
 alt: image-alt
 project-date: Summer 2020
