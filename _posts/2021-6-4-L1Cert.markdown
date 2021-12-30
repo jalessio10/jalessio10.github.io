@@ -6,7 +6,7 @@ alt: image-alt
 project-date: Spring 2021 
 category: Rocketry
 title: L1 Certification Rocket
-objective: To successfully design and fly an L1 certification rocket with electronic deployment and without using a kit rocket in under 3 weeks.
-details: The rocket was designed and simulated in OpenRocket and then a complete 3D assembly was created in Solidworks. The airframe was built using bluetube, a plastic nosecone, laser-cut plywood fins, and RocketEpoxy. The electronica bay used bluetube coupler, lasercut plywood, and 3D printed bulkheads. Within the electronics bay was two fully redundant systems with an Altus Metrum Easy Minis, a 1s lipo battery, and a rocker switche for arming. The rocket was designed to deploy a small drogue parachute at apogee and a larger main parachute a few hundred feet off the ground using black powder charges and shear pins.
-results: Although the rockets flight was imperfect, it was undamaged and safely recovered, earning me my L1 rocketry certification. The project was also completed with the aggressive timeline desired to fly at that months launch.
+objective: To successfully design and fly an L1 certification rocket with electronic deployment and without using a kit rocket in under three weeks.
+details: The rocket was simulated in OpenRocket and designed in Solidworks. The airframe was built using Blue Tube, a plastic nosecone, laser-cut plywood fins, and RocketEpoxy. The electronics bay used a Blue Tube coupler, laser-cut plywood, and 3D printed bulkheads. The electronics bay contained two fully redundant systems with an Altus Metrum Easy Minis, a 1s lipo battery, and a rocker switch for arming. The rocket was designed to deploy a small drogue parachute at apogee and a larger main parachute a few hundred feet off the ground using black powder charges and shear pins.
+results: Although the rocket's flight was imperfect, it was undamaged and safely recovered, earning me my L1 rocketry certification. The project was also completed with the aggressive timeline desired to fly at that month's launch.
 ---
