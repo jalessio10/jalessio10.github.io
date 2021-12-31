@@ -6,7 +6,7 @@ alt: image-alt
 project-date: Fall 2018
 category: Product Design
 title: Coin Counter/Sorter
-objective: To create a PCB that would enable servo control with proven off-the-shelf dual deployment altimeters. PCB was designed using a previously tested perfboard prototype built by previous club members as reference.
-details: Board was designed to adapt flight-proven, off-the-shelf altimeters (designed to deploy parachutes using electronic matches) to control servos. This was necessary for the club to develop mechanical deployment mechanisms that did not rely on lighting black powder charges. An RC circuit was used to read the voltage from the e-match output on the commercial altimeter and an ATmega328P with the Arduino bootloader was used to control the servo motors.
-results: The first version of this board was reworked to add more protection because inrush from plugging in the batteries killed the voltage regulators. The board was flown in this configuration and performed nominally. A new version was designed that fixed this issue but was never flown due to traveling restraints with COVID-19. The club has since built its own altimeters and is developing and testing its own flight control algorithms.
+objective: To create a device that could sort coins, count them, and display that information on an LCD.
+details: The device is powered by an Arduino Nano and all the parts are soldered to a perfboard. A laser-cut chassis and 3D printed sorting mechanism were utilized for the build. To detect coins, a laser diode and photoresistor pair were added to each coin drop and the coin funnel. The sorting mechanism was controlled by a small DC motor. 
+results: The final electronics and software worked flawlessly. Although there were some issues with the mechanical mechanism, which could occasionally get clogged due to the varying thicknesses of US coins.
 ---

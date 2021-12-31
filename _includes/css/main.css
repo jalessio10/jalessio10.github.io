@@ -199,7 +199,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #fff;
 }
 
 @media(max-width:767px) {
@@ -210,6 +210,11 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+}
+
+section.portfolio {
+    color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 #portfolio .portfolio-item {
@@ -229,7 +234,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba(255,255,255,.75);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -309,7 +314,7 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #{{ site.color.primary }};
+    border: solid 2px #{{ site.color.secondary }};
     color: #{{ site.color.primary }};
     background: #{{ site.color.secondary }};
 }
