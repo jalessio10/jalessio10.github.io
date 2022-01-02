@@ -319,6 +319,13 @@ section.portfolio {
     background: #{{ site.color.secondary }};
 }
 
+.btn-outline.btn-social:hover,
+.btn-outline.btn-social:focus,
+.btn-outline.btn-social:active,
+.btn-outline.btn-social.active {
+    border: solid 2px #{{ site.color.primary }};
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
