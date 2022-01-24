@@ -6,7 +6,7 @@ alt: image-alt
 project-date: Spring 2021 
 category: Rocketry
 title: L1 Certification Rocket
-objective: To successfully design and fly an L1 certification rocket with electronic deployment and without using a kit rocket in under three weeks.
-details: The rocket was simulated in OpenRocket and designed in Solidworks. The airframe was built using Blue Tube, a plastic nosecone, laser-cut plywood fins, and RocketEpoxy. The electronics bay used a Blue Tube coupler, laser-cut plywood, and 3D printed bulkheads. The electronics bay contained two fully redundant systems with an Altus Metrum Easy Minis, a 1s lipo battery, and a rocker switch for arming. The rocket was designed to deploy a small drogue parachute at apogee and a larger main parachute a few hundred feet off the ground using black powder charges and shear pins.
-results: Although the rocket's flight was imperfect, it was undamaged and safely recovered, earning me my L1 rocketry certification. The project was also completed with the aggressive timeline desired to fly at that month's launch.
+objective: To successfully design and fly an L1 certification rocket with electronic deployment in under three weeks.
+details: I simulated the rocket in OpenRocket and designed it in Solidworks. I built the airframe using Blue Tube, a plastic nosecone, laser-cut plywood fins, and RocketEpoxy. The electronics bay used a Blue Tube coupler, laser-cut plywood, and 3D printed bulkheads. The electronics bay contained two fully redundant systems with an Altus Metrum Easy Minis, a 1s lipo battery, and a rocker switch for arming. I designed the rocket to deploy a small drogue parachute at apogee and a larger main parachute a few hundred feet off the ground using black powder charges and shear pins.
+results: Although the rocket's flight was imperfect, it was undamaged and safely recovered, earning me my L1 rocketry certification. I completed the project without delay to fly at that month's launch.
 ---
