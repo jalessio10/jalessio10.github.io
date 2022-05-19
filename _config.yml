@@ -1,11 +1,11 @@
 # Site settings
-title: John Alessio
-email: alessiojohn10@gmail.com
+title: Jaiden Alessio
+email: alessiojaiden10@gmail.com
 url: www.jalessio.info
 description: "Welcome to my engineering portfolio! I am a Northeastern student studying computer engineering and computer science with an interest in aerospace and embedded devices. Visit for a close look at my professional, academic, and personal projects."
-keywords: "john, alessio, portfolio, engineer, computer, science, electric, electronic, PCB, software, developer"
+keywords: "jaiden, alessio, portfolio, engineer, computer, science, electric, electronic, PCB, software, developer"
 skills: "Candidate for Bachelors in Computer Engineering & Computer Science"
-meta_author: Alessio John
+meta_author: Alessio Jaiden
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: John Alessio
+  copyright: Jaiden Alessio
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/john-alessio-08322817a/
+    url: https://www.linkedin.com/in/jaiden-alessio-08322817a/
   - title: github
     url: https://github.com/jalessio10
   - title: gitlab
